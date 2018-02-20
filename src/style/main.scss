@@ -8,22 +8,12 @@
 body {
   background-color: salmon;
 }
-.container {
-  display: flex;
-  flex-direction: column;
-  width: 800px;
-  height: 500px;
+
+#app {
   margin: 0 auto;
-  
 }
-.one {
-  width: 500px;
-  padding-left: 1rem;
-  h1 {
-    color: mistyrose;
-  }
-}
-.two {
-  width: 500px;
-  height: 100px;
+
+#monaco_container {
+  width: 80%;
+  height: 500px;
 }
